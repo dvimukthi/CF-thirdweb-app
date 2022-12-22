@@ -1,4 +1,4 @@
-## Getting Started
+##Started
 
 Create a project using this example:
 
